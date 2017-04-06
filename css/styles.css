@@ -1,0 +1,79 @@
+/*css for body */
+body {
+    font-family: "Lato", sans-serif;
+    color: #2d3c49;
+    padding-right: 10%;
+    padding-left: 10%
+}
+
+ /*css for logo */
+
+.udacity-logo {
+    margin-top: 1.5em;
+    width: 70px;
+    height: 70px;
+}
+
+
+/*css horizontal rule */
+
+.horizontal-line {
+    border: none;
+    height: 5px;
+    background-color: #7d97ad;
+    margin-top: 0.2em;
+    margin-bottom: 2.2em;
+
+}
+
+ /*css for text */
+
+.slim-text {
+    font-weight: 100;
+}
+
+.title1 {
+    font-size: 60px
+
+}
+
+.subtitle {
+    font-weight: 300;
+    font-size: 23px;
+}
+
+.title2 {
+    padding-left:2%;
+    color: #7d97ad;
+    font-weight:400;
+    font-size: 38px;
+    margin-top: 1em;
+}
+
+.links {
+    color: #2d3c49;
+    font-size: 16px;
+    font-weight: 400;
+    text-align: center;
+}
+
+
+
+
+.img-title {
+    font-size: 38px;
+    font-weight: 400;
+    color: #2d3c49;
+    text-align: center;
+
+}
+
+.align-right {
+text-align: right;
+}
+
+.align-center {
+    text-align: center;
+}
+
+
